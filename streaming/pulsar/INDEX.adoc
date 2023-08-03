@@ -1,0 +1,6 @@
+= Getting started with Apache Pulsar
+:toc: right
+
+== What is Pulsar?
+
+A streaming platform that enable georeplicated messaging.
